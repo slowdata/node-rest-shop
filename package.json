@@ -19,5 +19,10 @@
   },
   "devDependencies": {
     "nodemon": "^1.12.5"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": false
   }
 }
