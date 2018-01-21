@@ -1,5 +1,6 @@
 {
   "env": {
-    "MONGO_ATLAS_PW": "slow-shop-pass"
+    "MONGO_ATLAS_PW": "slow-shop-pass",
+    "JWT_KEY": "secret_do_dias"
   }
 }
